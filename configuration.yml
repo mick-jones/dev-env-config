@@ -1,0 +1,4 @@
+applications:
+  hmlr-design-system:
+    repo: git@github.com:LandRegistry/hmlr-design-system.git
+    branch: master
